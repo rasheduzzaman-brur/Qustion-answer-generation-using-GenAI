@@ -1,10 +1,10 @@
 # Question-answer-generation-using-GenAI
 
-## Bangla Law Data Question Generation with Gemini AI
+## Bangla Data Question Generation with Gemini AI
 
 ### Overview
 
-This project utilizes Google's GenerativeAI (Gemini Pro) to generate questions and answers from Bangla law data. By leveraging AI, this tool automates the process of creating questions and corresponding answers based on provided headings and descriptions of Bangladeshi law data.
+This project utilizes Google's GenerativeAI (Gemini Pro) to generate questions and answers from Bangla  data. By leveraging AI, this tool automates the process of creating questions and corresponding answers based on provided headings and descriptions of Bangladeshi  data.
 
 ### Requirements
 
@@ -19,7 +19,7 @@ This project utilizes Google's GenerativeAI (Gemini Pro) to generate questions a
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your_username/bangla-law-question-generation.git
+    git clone https://github.com/your_username/bangla--question-generation.git
     ```
 
 2. Install the required Python packages:
@@ -44,7 +44,7 @@ This project utilizes Google's GenerativeAI (Gemini Pro) to generate questions a
     python generate_questions.py
     ```
 
-4. The script will iterate through the provided Bangla law data, generate questions and answers using Gemini AI, and save the results in the output directory.
+4. The script will iterate through the provided Bangla  data, generate questions and answers using Gemini AI, and save the results in the output directory.
 
 ### Safety Settings
 
